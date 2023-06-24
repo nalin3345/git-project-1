@@ -1,0 +1,7 @@
+git => clone- to clone the  remote repository into local machine 
+cd => change the directory
+ll => long list of files or directories
+ls => to view files and directories in short list(only names)
+ll -a => to see se the long list of files along with hidden files
+git status => to see the stauts of the files
+t add =>is a command to add files into a rpository
