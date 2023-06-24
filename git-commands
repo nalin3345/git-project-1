@@ -1,7 +1,18 @@
-git => clone- to clone the  remote repository into local machine 
+git clone=> to clone the  remote repository into local machine 
 cd => change the directory
 ll => long list of files or directories
 ls => to view files and directories in short list(only names)
 ll -a => to see se the long list of files along with hidden files
 git status => to see the stauts of the files
-t add =>is a command to add files into a rpository
+git add =>is a command to add files into a rpositoriy
+git commit -m "message" filename
+git add *=> used to add all the files into repository (stagging or index)
+git add filename filename=>to add two files
+git filename filename filename..=>to add upto nth file
+git branch => to check weather it is main or not
+git reset filename =>  is a command to change  file from stagging to working directory or from commiting to working dirctory
+git stage filename =>to  add files 
+git stage filename filename =>to stage two files at a time
+git stage* => add all the files at a time
+git is meant for  SCM(source code management)
+
